@@ -1,3 +1,3 @@
 ### Hello 👋
 
-I'm a software engineer at Kraken Technologies.
+I'm a software engineer at Octopus Energy.
